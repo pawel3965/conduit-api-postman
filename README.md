@@ -1,10 +1,12 @@
 # conduit-api-postman
-Testowane moduły:
-- User: 24 requesty
-- Articles: 12
-- Profiles: 3
-- Tags: 1
-- Comments: 5
-1 defekt wykryty i zgłoszony
-Narzędzia: Postman
-Zakres testów: GET/POST, walidacja parametrów, status codes
+Tested modules:
+- User – 24 requests
+- Articles – 12 requests
+- Profiles – 3 requests
+- Tags – 1 request
+- Comments – 5 requests
+
+HTTP methods tested: GET, POST, PUT, DELETE
+Defects detected and reported: 1
+Tools: Postman
+Scope: parameter validation, status codes, manual API testing
